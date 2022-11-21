@@ -19,6 +19,8 @@
 *.tar.gz
 *.rar
 
+/.idea/
+
 .DS_Store
 .DS_Store?
 
